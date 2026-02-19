@@ -95,7 +95,7 @@ Gradio will print a local URL (usually http://127.0.0.1:7860).
 ## Example requirements.txt
 
 openai\>=1.0.0 gradio\>=4.0.0 python-dotenv\>=1.0.0 requests\>=2.0.0
-pypdf\>=4.0.0
+pypdf\>=4.0.0 pandas 
 
 ------------------------------------------------------------------------
 
